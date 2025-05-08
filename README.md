@@ -1,4 +1,4 @@
-#👋 Hi, I'm Hassan Sajid
+👋 Hi, I'm Hassan Sajid
 
 🎓 A Software Engineering student at The Islamia University of Bahawalpur  
 🌐 Full Stack Developer passionate about building clean, responsive web interfaces  
