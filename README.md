@@ -50,7 +50,7 @@ In the long term, I want to bridge SOC operations with offensive insights to con
 📬 Connect with Me
 
 LinkedIn
-- [Hassan Sajid] [https://www.linkedin.com/in/hassan-sajid-656993302/]
+- [https://www.linkedin.com/in/hassan-sajid-656993302/]
 
 Email
- – [Mail] [hassansajid.work@gmail.com]
+ – [hassansajid.work@gmail.com]
