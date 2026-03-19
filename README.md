@@ -53,4 +53,4 @@ LinkedIn
 - [https://www.linkedin.com/in/hassan-sajid-656993302/]
 
 Email
-– [hassansajid.work@gmail.com]
+- [hassansajid.work@gmail.com]
